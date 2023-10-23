@@ -1,0 +1,188 @@
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\obj\Debug\SistemaVentaLite.csproj.AssemblyReference.cache
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\obj\Debug\SistemaVentaLite.csproj.SuggestedBindingRedirects.cache
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\obj\Debug\SistemaVentaLite.frmCategoria.resources
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\obj\Debug\SistemaVentaLite.frmClientes.resources
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\obj\Debug\SistemaVentaLite.frmInicio.resources
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\obj\Debug\SistemaVentaLite.frmVentas.resources
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\obj\Debug\SistemaVentaLite.Login.resources
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\obj\Debug\SistemaVentaLite.Properties.Resources.resources
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\obj\Debug\SistemaVentaLite.csproj.GenerateResource.cache
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\obj\Debug\SistemaVentaLite.csproj.CoreCompileInputs.cache
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\obj\Debug\SistemaVentaLite.frmProducto.resources
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\bin\Debug\BarcodeStandard.dll
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\bin\Debug\BitMiracle.LibTiff.NET.dll
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\bin\Debug\CapaDatos.dll
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\bin\Debug\CapaEntidad.dll
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\bin\Debug\CapaNegocio.dll
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\bin\Debug\ClosedXML.dll
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\bin\Debug\ExcelNumberFormat.dll
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\bin\Debug\FastMember.dll
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\bin\Debug\IronBarCode.dll
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\bin\Debug\IronSoftware.Drawing.Common.dll
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\bin\Debug\itextsharp.dll
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\bin\Debug\NPOI.dll
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\bin\Debug\NPOI.OOXML.dll
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\bin\Debug\SixLabors.Fonts.dll
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\bin\Debug\SixLabors.ImageSharp.dll
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\bin\Debug\SixLabors.ImageSharp.Drawing.dll
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\bin\Debug\System.Buffers.dll
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\bin\Debug\System.Data.SqlClient.dll
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\bin\Debug\System.Drawing.Common.dll
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\bin\Debug\System.IO.Packaging.dll
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\bin\Debug\System.Memory.dll
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\bin\Debug\System.Text.Json.dll
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\bin\Debug\System.ValueTuple.dll
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\bin\Debug\zxing.dll
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\bin\Debug\zxing.presentation.dll
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\bin\Debug\CapaDatos.pdb
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\bin\Debug\CapaEntidad.pdb
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\bin\Debug\CapaNegocio.pdb
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\bin\Debug\BitMiracle.LibTiff.NET.xml
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\bin\Debug\ClosedXML.pdb
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\bin\Debug\ClosedXML.xml
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\bin\Debug\ExcelNumberFormat.xml
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\bin\Debug\IronBarCode.xml
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\bin\Debug\IronSoftware.Drawing.Common.pdb
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\bin\Debug\IronSoftware.Drawing.Common.xml
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\bin\Debug\itextsharp.xml
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\bin\Debug\SixLabors.ImageSharp.xml
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\bin\Debug\System.Buffers.xml
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\bin\Debug\System.Data.SqlClient.xml
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\bin\Debug\System.Memory.xml
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\bin\Debug\System.Text.Json.xml
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\bin\Debug\System.ValueTuple.xml
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\bin\Debug\zxing.pdb
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\bin\Debug\zxing.presentation.xml
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\obj\Debug\SistemaVentaLite.frmBackup.resources
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\obj\Debug\SistemaVentaLite.frmDetalleVenta.resources
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\obj\Debug\SistemaVentaLite.frmNegocio.resources
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\obj\Debug\SistemaVentaLite.frmReporteVentas.resources
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\obj\Debug\SistemaVentaLite.frmUsuarios.resources
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\obj\Debug\SistemaVentaLite.Modales.mdCliente.resources
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\obj\Debug\SistemaVentaLite.Modales.mdProducto.resources
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\obj\Debug\SistemaVentaLite.csproj.CopyComplete
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\bin\Debug\GR-SistemasLite.exe.config
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\bin\Debug\GR-SistemasLite.exe
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\bin\Debug\GR-SistemasLite.pdb
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\obj\Debug\GR-SistemasLite.exe
+C:\Users\raffa\source\repos\SistemaVentaLite\SistemaVentaLite\obj\Debug\GR-SistemasLite.pdb
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\bin\Debug\DBMYVENTALITE.mdf
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\bin\Debug\DBMYVENTALITE_log.ldf
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\bin\Debug\GR-SistemasLite.exe.config
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\bin\Debug\GR-SistemasLite.exe
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\bin\Debug\GR-SistemasLite.pdb
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\bin\Debug\BarcodeStandard.dll
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\bin\Debug\BitMiracle.LibTiff.NET.dll
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\bin\Debug\BouncyCastle.Crypto.dll
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\bin\Debug\CapaDatos.dll
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\bin\Debug\CapaEntidad.dll
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\bin\Debug\CapaNegocio.dll
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\bin\Debug\ClosedXML.dll
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\bin\Debug\DocumentFormat.OpenXml.dll
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\bin\Debug\ExcelNumberFormat.dll
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\bin\Debug\FastMember.dll
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\bin\Debug\FontAwesome.Sharp.dll
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\bin\Debug\IronBarCode.dll
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\bin\Debug\IronSoftware.Drawing.Common.dll
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\bin\Debug\itextsharp.dll
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\bin\Debug\itextsharp.xmlworker.dll
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\bin\Debug\NPOI.dll
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\bin\Debug\NPOI.OOXML.dll
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\bin\Debug\NPOI.OpenXml4Net.dll
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\bin\Debug\SixLabors.Fonts.dll
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\bin\Debug\SixLabors.ImageSharp.dll
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\bin\Debug\SixLabors.ImageSharp.Drawing.dll
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\bin\Debug\System.Buffers.dll
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\bin\Debug\System.Data.SqlClient.dll
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\bin\Debug\System.Drawing.Common.dll
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\bin\Debug\System.IO.Packaging.dll
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\bin\Debug\System.Memory.dll
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\bin\Debug\System.Numerics.Vectors.dll
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\bin\Debug\System.Text.Encoding.CodePages.dll
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\bin\Debug\System.Text.Encodings.Web.dll
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\bin\Debug\System.Text.Json.dll
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\bin\Debug\System.ValueTuple.dll
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\bin\Debug\zxing.dll
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\bin\Debug\zxing.presentation.dll
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\bin\Debug\CapaDatos.pdb
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\bin\Debug\CapaEntidad.pdb
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\bin\Debug\CapaNegocio.pdb
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\bin\Debug\BitMiracle.LibTiff.NET.xml
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\bin\Debug\BouncyCastle.Crypto.xml
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\bin\Debug\ClosedXML.pdb
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\bin\Debug\ClosedXML.xml
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\bin\Debug\DocumentFormat.OpenXml.xml
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\bin\Debug\ExcelNumberFormat.xml
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\bin\Debug\ICSharpCode.SharpZipLib.pdb
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\bin\Debug\ICSharpCode.SharpZipLib.xml
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\bin\Debug\IronBarCode.xml
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\bin\Debug\IronSoftware.Drawing.Common.pdb
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\bin\Debug\IronSoftware.Drawing.Common.xml
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\bin\Debug\itextsharp.xml
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\bin\Debug\SixLabors.ImageSharp.xml
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\bin\Debug\System.Buffers.xml
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\bin\Debug\System.Data.SqlClient.xml
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\bin\Debug\System.Memory.xml
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\bin\Debug\System.Numerics.Vectors.xml
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\bin\Debug\System.Text.Encodings.Web.xml
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\bin\Debug\System.Text.Json.xml
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\bin\Debug\System.ValueTuple.xml
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\bin\Debug\zxing.pdb
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\bin\Debug\zxing.presentation.xml
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\obj\Debug\SistemaVentaLite.csproj.AssemblyReference.cache
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\obj\Debug\SistemaVentaLite.csproj.SuggestedBindingRedirects.cache
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\obj\Debug\SistemaVentaLite.frmBackup.resources
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\obj\Debug\SistemaVentaLite.frmCategoria.resources
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\obj\Debug\SistemaVentaLite.frmClientes.resources
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\obj\Debug\SistemaVentaLite.frmDetalleVenta.resources
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\obj\Debug\SistemaVentaLite.frmInicio.resources
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\obj\Debug\SistemaVentaLite.frmNegocio.resources
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\obj\Debug\SistemaVentaLite.frmProducto.resources
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\obj\Debug\SistemaVentaLite.frmReporteVentas.resources
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\obj\Debug\SistemaVentaLite.frmUsuarios.resources
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\obj\Debug\SistemaVentaLite.frmVentas.resources
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\obj\Debug\SistemaVentaLite.Login.resources
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\obj\Debug\SistemaVentaLite.Modales.mdCliente.resources
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\obj\Debug\SistemaVentaLite.Modales.mdProducto.resources
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\obj\Debug\SistemaVentaLite.Properties.Resources.resources
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\obj\Debug\SistemaVentaLite.csproj.GenerateResource.cache
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\obj\Debug\SistemaVentaLite.csproj.CoreCompileInputs.cache
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\obj\Debug\SistemaVentaLite.csproj.CopyComplete
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\obj\Debug\GR-SistemasLite.exe
+E:\PROYECTO COMPLETOS EN C# Y SQL\SistemaVentaLite\SistemaVentaLite\obj\Debug\GR-SistemasLite.pdb

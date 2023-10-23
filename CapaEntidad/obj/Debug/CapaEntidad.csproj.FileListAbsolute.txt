@@ -1,0 +1,6 @@
+C:\Users\raffa\source\repos\SistemaVentaLite\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\raffa\source\repos\SistemaVentaLite\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\raffa\source\repos\SistemaVentaLite\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\raffa\source\repos\SistemaVentaLite\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\raffa\source\repos\SistemaVentaLite\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\raffa\source\repos\SistemaVentaLite\CapaEntidad\obj\Debug\CapaEntidad.pdb
